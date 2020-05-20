@@ -6,7 +6,7 @@
 
 # Situação Problema: Farmácia
 
-**AQUI SE INSERE A SITUAÇÃO PROBLEMA**
+Uma farmácia necessita de um banco de dados para organizar todas as suas informações e melhorar o atendimento de seus clientes. Mediante esse problema desenvolvemos um banco de dados para atender as necessidades da farmácia.
 
 Criando-se assim, três scripts: 
 - DDL = Inserção (Comando: ```insert```)
